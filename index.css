@@ -1,0 +1,13 @@
+.form-group {
+    margin-bottom: 7px;
+    margin-top: 7px;
+    text-align: justify;
+}
+
+.card-body {
+    background-color: rgb(207, 208, 222);
+}
+
+p {
+    margin: 1px;
+}
